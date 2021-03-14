@@ -1,0 +1,30 @@
+/* joesstyles2.css */
+
+@charset "utf-8";
+
+#header {
+	color:red;
+	font-size:60px;
+	background-color:lightblue;
+	display:block;
+	text-align:center;
+}
+
+
+.row {
+	color:red;
+	font-size:20px;
+	background-color:lightblue;
+	display:block;
+}
+
+#submit_order {
+	color:red;
+	font-size:30px;
+	height:50px; 
+    width:200px; 
+    margin: -0px -50px; 
+    position:relative;
+    top:50%; 
+    left:45%;
+}
